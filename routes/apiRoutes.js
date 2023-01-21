@@ -25,7 +25,7 @@ module.exports = app => {
     // API POST Request
     app.post("/api/notes", (req, res) => {
 
-        // Extracted new note from request body.  
+        // Extracted new note from request body 
         const newNote = req.body;
 
         console.log("\n\nPOST request - New Note : " + JSON.stringify(newNote));
