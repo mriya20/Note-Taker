@@ -6,7 +6,7 @@
 This is a simple Note Taker application that allows users to add, view saved notes and also delete the notes if the user don't need that note anymore. This application uses an express backend and save and retrieve note data from a JSON file.
 
 ## Deployed Application :
-[Note Taker](https://gauri-express-notetaker.herokuapp.com/)
+[Note Taker](https://note-taker-am.herokuapp.com/)
 
 # Table of Contents
 * [Demo](#demo)
@@ -34,13 +34,13 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 * Being able to take persistent notes allows users to have written information available when needed.
 
 # Demo :
-![Note Taker](public/assets/images/NoteTaker.gif)
+![Note Taker](public/assets/images/note-taker.1.png)
 
 # Application Preview : 
 
 |Main Page|Saved Notes|Delete Note
 |--|--|--
-|![Main Page](public/assets/images/NoteTaker.png)|![Saved Notes](public/assets/images/SavedNotes.png)|![Delete Note](public/assets/images/DeleteNote.png)
+|![Main Page](public/assets/images/note-taker.1.png)|![Saved Notes](public/assets/images/note-taker.2.png.png)|![Delete Note](public/assets/images/note-taker.3.png.png)
 
 # Technology :
 
@@ -79,6 +79,8 @@ node server.js
 ```
 
 * Open browser and type `http://localhost:3000/` to run this application on your local machine.
+
+* The application is working by showing:
 
 # Features :
 
